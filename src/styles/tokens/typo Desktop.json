@@ -1,5 +1,5 @@
 {
-  "_base": {
+  "base": {
     "font-family": {
       "Inter": {
         "$type": "fontFamily",
@@ -55,11 +55,11 @@
     "display-01": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -71,17 +71,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "display-02": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -93,17 +93,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "display-03": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -115,17 +115,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "display-04": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -137,17 +137,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "display-05": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -159,17 +159,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "display-06": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.smbold}"
+        "$value": "{base.font-weight.smbold}"
       },
       "font-size": {
         "$type": "number",
@@ -181,7 +181,7 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     }
   },
@@ -189,11 +189,11 @@
     "heading-01": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -205,17 +205,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "heading-02": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -227,17 +227,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "heading-03": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -249,17 +249,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "heading-04": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -271,17 +271,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "heading-05": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -293,17 +293,17 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     },
     "heading-06": {
       "font-family": {
         "$type": "fontFamily",
-        "$value": "{_base.font-family.Inter}"
+        "$value": "{base.font-family.Inter}"
       },
       "font-weight": {
         "$type": "fontFamily",
-        "$value": "{_base.font-weight.medium}"
+        "$value": "{base.font-weight.medium}"
       },
       "font-size": {
         "$type": "number",
@@ -315,7 +315,7 @@
       },
       "letter-spacing": {
         "$type": "number",
-        "$value": "{_base.letter-spacing.tight}"
+        "$value": "{base.letter-spacing.tight}"
       }
     }
   },
@@ -324,11 +324,11 @@
       "body-01": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.regular}"
+          "$value": "{base.font-weight.regular}"
         },
         "font-size": {
           "$type": "number",
@@ -340,7 +340,7 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "Number": {
@@ -350,11 +350,11 @@
       "body-02": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.regular}"
+          "$value": "{base.font-weight.regular}"
         },
         "font-size": {
           "$type": "number",
@@ -366,17 +366,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-03": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.regular}"
+          "$value": "{base.font-weight.regular}"
         },
         "font-size": {
           "$type": "number",
@@ -388,17 +388,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-04": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.regular}"
+          "$value": "{base.font-weight.regular}"
         },
         "font-size": {
           "$type": "number",
@@ -410,17 +410,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-05": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.regular}"
+          "$value": "{base.font-weight.regular}"
         },
         "font-size": {
           "$type": "number",
@@ -432,7 +432,7 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       }
     },
@@ -440,11 +440,11 @@
       "body-01": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.smbold}"
+          "$value": "{base.font-weight.smbold}"
         },
         "font-size": {
           "$type": "number",
@@ -456,7 +456,7 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "Number": {
@@ -466,11 +466,11 @@
       "body-02": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.smbold}"
+          "$value": "{base.font-weight.smbold}"
         },
         "font-size": {
           "$type": "number",
@@ -482,17 +482,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-03": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.smbold}"
+          "$value": "{base.font-weight.smbold}"
         },
         "font-size": {
           "$type": "number",
@@ -504,17 +504,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-04": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.smbold}"
+          "$value": "{base.font-weight.smbold}"
         },
         "font-size": {
           "$type": "number",
@@ -526,17 +526,17 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       },
       "body-05": {
         "font-family": {
           "$type": "fontFamily",
-          "$value": "{_base.font-family.Inter}"
+          "$value": "{base.font-family.Inter}"
         },
         "font-weight": {
           "$type": "fontFamily",
-          "$value": "{_base.font-weight.smbold}"
+          "$value": "{base.font-weight.smbold}"
         },
         "font-size": {
           "$type": "number",
@@ -548,7 +548,7 @@
         },
         "letter-spacing": {
           "$type": "number",
-          "$value": "{_base.letter-spacing.none}"
+          "$value": "{base.letter-spacing.none}"
         }
       }
     }

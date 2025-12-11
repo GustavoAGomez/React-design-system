@@ -1,5 +1,5 @@
 {
-  "_base": {
+  "base": {
     "white": {
       "$value": "#ffffff",
       "$type": "color"
@@ -47,71 +47,71 @@
   },
   "color-text": {
     "1": {
-      "$value": "{_base.black}",
+      "$value": "{base.black}",
       "$type": "color"
     },
     "2": {
-      "$value": "{_base.white}",
+      "$value": "{base.white}",
       "$type": "color"
     },
     "3": {
-      "$value": "{_base.neutral-2}",
+      "$value": "{base.neutral-2}",
       "$type": "color"
     },
     "4": {
-      "$value": "{_base.grey-1}",
+      "$value": "{base.grey-1}",
       "$type": "color"
     },
     "accent": {
-      "$value": "{_base.pink-1}",
+      "$value": "{base.pink-1}",
       "$type": "color"
     }
   },
   "color-background": {
     "1": {
-      "$value": "{_base.white}",
+      "$value": "{base.white}",
       "$type": "color"
     },
     "2": {
-      "$value": "{_base.black}",
+      "$value": "{base.black}",
       "$type": "color"
     },
     "3": {
-      "$value": "{_base.grey-1}",
+      "$value": "{base.grey-1}",
       "$type": "color"
     },
     "4": {
-      "$value": "{_base.neutral-1}",
+      "$value": "{base.neutral-1}",
       "$type": "color"
     },
     "accent 1": {
-      "$value": "{_base.pink-1}",
+      "$value": "{base.pink-1}",
       "$type": "color"
     },
     "accent 2": {
-      "$value": "{_base.pink-2}",
+      "$value": "{base.pink-2}",
       "$type": "color"
     },
     "accent 3": {
-      "$value": "{_base.pink-3}",
+      "$value": "{base.pink-3}",
       "$type": "color"
     }
   },
   "color-border": {
     "1": {
-      "$value": "{_base.black}",
+      "$value": "{base.black}",
       "$type": "color"
     },
     "2": {
-      "$value": "{_base.white}",
+      "$value": "{base.white}",
       "$type": "color"
     },
     "3": {
-      "$value": "{_base.grey-1}",
+      "$value": "{base.grey-1}",
       "$type": "color"
     },
     "4": {
-      "$value": "{_base.grey-3}",
+      "$value": "{base.grey-3}",
       "$type": "color"
     }
   }

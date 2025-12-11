@@ -1,5 +1,5 @@
 {
-  "_base": {
+  "base": {
     "size-0": {
       "$type": "number",
       "$value": 0
@@ -56,67 +56,67 @@
   "size-margins": {
     "margin-64": {
       "$type": "dimension",
-      "$value": "{_base.size-64}"
+      "$value": "{base.size-64}"
     },
     "margin-104": {
       "$type": "dimension",
-      "$value": "{_base.size-104}"
+      "$value": "{base.size-104}"
     }
   },
   "size-spacings": {
     "space-0": {
       "$type": "dimension",
-      "$value": "{_base.size-0}"
+      "$value": "{base.size-0}"
     },
     "space-4": {
       "$type": "dimension",
-      "$value": "{_base.size-4}"
+      "$value": "{base.size-4}"
     },
     "space-8": {
       "$type": "dimension",
-      "$value": "{_base.size-8}"
+      "$value": "{base.size-8}"
     },
     "space-16": {
       "$type": "dimension",
-      "$value": "{_base.size-16}"
+      "$value": "{base.size-16}"
     },
     "space-24": {
       "$type": "dimension",
-      "$value": "{_base.size-24}"
+      "$value": "{base.size-24}"
     },
     "space-32": {
       "$type": "dimension",
-      "$value": "{_base.size-32}"
+      "$value": "{base.size-32}"
     },
     "space-40": {
       "$type": "dimension",
-      "$value": "{_base.size-40}"
+      "$value": "{base.size-40}"
     },
     "space-48": {
       "$type": "number",
-      "$value": "{_base.size-48}"
+      "$value": "{base.size-48}"
     },
     "space-56": {
       "$type": "number",
-      "$value": "{_base.size-56}"
+      "$value": "{base.size-56}"
     },
     "space-64": {
       "$type": "number",
-      "$value": "{_base.size-64}"
+      "$value": "{base.size-64}"
     },
     "space-80": {
       "$type": "number",
-      "$value": "{_base.size-80}"
+      "$value": "{base.size-80}"
     }
   },
   "size-radius": {
     "radius-8": {
       "$type": "dimension",
-      "$value": "{_base.size-8}"
+      "$value": "{base.size-8}"
     },
     "radius-16": {
       "$type": "dimension",
-      "$value": "{_base.size-16}"
+      "$value": "{base.size-16}"
     },
     "radius-100": {
       "$type": "dimension",
