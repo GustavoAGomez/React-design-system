@@ -1,0 +1,118 @@
+{
+  "_base": {
+    "white": {
+      "$value": "#ffffff",
+      "$type": "color"
+    },
+    "black": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "pink-1": {
+      "$value": "#f67bbd",
+      "$type": "color"
+    },
+    "pink-2": {
+      "$value": "#ffe7fb",
+      "$type": "color"
+    },
+    "pink-3": {
+      "$value": "#f9f5f9",
+      "$type": "color"
+    },
+    "grey-1": {
+      "$value": "#d9d9d9",
+      "$type": "color"
+    },
+    "grey-2": {
+      "$value": "#989898",
+      "$type": "color"
+    },
+    "grey-3": {
+      "$value": "#7e7e7e",
+      "$type": "color"
+    },
+    "neutral-1": {
+      "$value": "#f5f7fa",
+      "$type": "color"
+    },
+    "neutral-2": {
+      "$value": "#585858",
+      "$type": "color"
+    },
+    "neutral-3": {
+      "$value": "#2d2d2d",
+      "$type": "color"
+    }
+  },
+  "color-text": {
+    "1": {
+      "$value": "{_base.white}",
+      "$type": "color"
+    },
+    "2": {
+      "$value": "{_base.black}",
+      "$type": "color"
+    },
+    "3": {
+      "$value": "{_base.grey-1}",
+      "$type": "color"
+    },
+    "4": {
+      "$value": "{_base.grey-3}",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "{_base.pink-1}",
+      "$type": "color"
+    }
+  },
+  "color-background": {
+    "1": {
+      "$value": "{_base.black}",
+      "$type": "color"
+    },
+    "2": {
+      "$value": "{_base.white}",
+      "$type": "color"
+    },
+    "3": {
+      "$value": "{_base.grey-3}",
+      "$type": "color"
+    },
+    "4": {
+      "$value": "{_base.neutral-2}",
+      "$type": "color"
+    },
+    "accent 1": {
+      "$value": "{_base.pink-1}",
+      "$type": "color"
+    },
+    "accent 2": {
+      "$value": "#d96ca7",
+      "$type": "color"
+    },
+    "accent 3": {
+      "$value": "#66334e",
+      "$type": "color"
+    }
+  },
+  "color-border": {
+    "1": {
+      "$value": "{_base.white}",
+      "$type": "color"
+    },
+    "2": {
+      "$value": "{_base.black}",
+      "$type": "color"
+    },
+    "3": {
+      "$value": "{_base.grey-3}",
+      "$type": "color"
+    },
+    "4": {
+      "$value": "{_base.grey-1}",
+      "$type": "color"
+    }
+  }
+}
